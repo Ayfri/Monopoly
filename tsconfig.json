@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"alwaysStrict": true,
+		"lib": [
+			"ES2020",
+			"DOM"
+		],
+		"module": "commonjs",
+		"noImplicitAny": true,
+		"noUnusedParameters": true,
+		"pretty": true,
+		"sourceMap": true,
+		"strict": true,
+		"target": "es5"
+	},
+	"exclude": [
+		"node_modules"
+	]
+}
