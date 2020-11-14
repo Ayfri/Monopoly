@@ -15,6 +15,7 @@
 		"strict": true,
 		"target": "es5"
 	},
+	"files": ["src/**/*"],
 	"exclude": [
 		"node_modules"
 	]
