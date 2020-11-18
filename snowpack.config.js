@@ -5,7 +5,7 @@ module.exports = {
 	},
 	plugins:        ['@snowpack/plugin-typescript'],
 	install:        [
-	
+		'pixi.js'
 	],
 	installOptions: {
 		installTypes: true,
